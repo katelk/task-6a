@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="queue_methodscpp.cpp" />
+    <ClCompile Include="queue_methods.cpp" />
     <ClCompile Include="stack_methods.cpp" />
   </ItemGroup>
   <ItemGroup>
